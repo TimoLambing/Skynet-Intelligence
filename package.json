@@ -1,0 +1,23 @@
+{
+  "name": "website4.0",
+  "version": "1.0.0",
+  "description": "Learning GIT vs code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimoLambing/Skynet-Intelligence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimoLambing/Skynet-Intelligence/issues"
+  },
+  "homepage": "https://github.com/TimoLambing/Skynet-Intelligence#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "bootstrap": "^5.1.3"
+  }
+}
