@@ -4,3 +4,13 @@
     border: 2px solid #fff;
     color: #fff;
 }
+
+body {
+    /*font-family: 'Montserrat', sans-serif; /* Sellega sättisin kõik bodys oleva texti basic style */
+    /*font-size: 1.3rem; /* Fondi suurus võrreldes defaultiga */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/images/wallpapers/280105985_1469358456833696_4993636456520102959_n.png"); /* Body background */
+    background-size: cover;
+    background-position:top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
